@@ -4,7 +4,7 @@
 <p align ="center">
   <img 
     src="https://komarev.com/ghpvc/?username=thejasms1603&label=Profile%20Views&color=brightgreen&style=for-the-badge" 
-    alt="irohandev" 
+    alt="thejams1603" 
     style="border-radius: 15px;"/>
 </p>
 
@@ -13,7 +13,7 @@
     <ul style="list-style: none; padding: 0;">
       <li>🖥 <strong>MERN Stack Developer</strong> | 🌐 <strong>Open Source Contributor</strong></li>
       <li>📚 Learning about <strong>Web3</strong> and working on <strong>personal projects</strong> 🚀</li>
-      <li>📫 Reach out to me at: <strong>thejasabhi705@gmail.com</strong></li>
+      <li>📫 Reach out to me at: <a href="mailto:thejasabhi705@gmail.com"><strong>thejasabhi705@gmail.com</strong></a></li>
       <li>🔗 Explore my latest project: <a href="https://thejasms-medium.netlify.app" target="_blank"><strong>MEDIUM</strong></a></li>
     </ul>
   </div>
