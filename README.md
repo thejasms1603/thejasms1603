@@ -14,7 +14,7 @@
       <li>🖥 <strong>MERN Stack Developer</strong> | 🌐 <strong>Open Source Contributor</strong></li>
       <li>📚 Learning about <strong>Web3</strong> and working on <strong>personal projects</strong> 🚀</li>
       <li>📫 Reach out to me at: <a href="mailto:thejasabhi705@gmail.com"><strong>thejasabhi705@gmail.com</strong></a></li>
-      <li>🔗 Explore my latest project: <a href="https://thejasms-medium.netlify.app" target="_blank"><strong>MEDIUM</strong></a></li>
+      <li>🔗 Explore my latest project: <a href="https://gitflow-ai.vercel.app/" target="_blank"><strong>Gitflow AI</strong></a></li>
     </ul>
   </div>
 </div>
