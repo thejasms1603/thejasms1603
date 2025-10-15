@@ -39,7 +39,7 @@
 <h3 align="center">Languages, Technologies & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nodejs,express,nextjs,prisma,postgres,mongodb,mysql,firebase,figma,mui,linux,docker,kubernetes,notion,vscode,vite,git,github,vercel,netlify,postman,python,threejs,aws,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,go,react,redux,nodejs,express,nextjs,prisma,postgres,mongodb,mysql,firebase,figma,mui,linux,docker,kubernetes,notion,vscode,vite,git,github,vercel,netlify,postman,python,threejs,aws,cloudflare" />
   </a>
 </p>
 
