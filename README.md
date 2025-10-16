@@ -11,8 +11,8 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <div>
     <ul style="list-style: none; padding: 0;">
-      <li>🖥 <strong>MERN Stack Developer</strong> | 🌐 <strong>Open Source Contributor</strong></li>
-      <li>📚 Learning about <strong>Web3</strong> and working on <strong>personal projects</strong> 🚀</li>
+      <li>🖥 <strong>Full Stack Developer</strong> | 🌐 <strong> SDE  AI | Web3 Enthusiast </strong></li>
+      <li>📚 Learning about <strong>Web3</strong> and <strong> AI Automations</strong> and working on <strong>personal projects</strong> 🚀</li>
       <li>📫 Reach out to me at: <a href="mailto:thejasabhi705@gmail.com"><strong>thejasabhi705@gmail.com</strong></a></li>
       <li>🔗 Explore my latest project: <a href="https://gitflow-ai.vercel.app/" target="_blank"><strong>Gitflow AI</strong></a></li>
     </ul>
